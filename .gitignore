@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+*.xml
+*.log
+*.apk
+*.db
+*.obj
+*.pdb
+*.tlog
+*.lastbuildstate
