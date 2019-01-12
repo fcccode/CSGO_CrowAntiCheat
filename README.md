@@ -1,6 +1,5 @@
 # CSGO_CrowAntiCheat
 ## Developer : huoji and Truman
-<<<<<<< HEAD
 ## 功能列表:
 #### MiniFilter屏蔽dll注入
 #### ObreGisterCallbacks 屏蔽句柄
@@ -51,4 +50,3 @@
 ### 驱动要做的:
 ### 1. MmUnloadedDriver扫描 *
 ### 2. 剥离csrss.exe 、 lsass.exe的句柄 *
->>>>>>> 78d10ef41dda2968df48c5448caa33b0ce8f210c
